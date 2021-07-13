@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.eb4bec4d.chunk.css",
-    "main.js": "/static/js/main.f4227e90.chunk.js",
-    "main.js.map": "/static/js/main.f4227e90.chunk.js.map",
+    "main.js": "/static/js/main.57b4832b.chunk.js",
+    "main.js.map": "/static/js/main.57b4832b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b7569dbb.js",
     "runtime-main.js.map": "/static/js/runtime-main.b7569dbb.js.map",
     "static/js/2.fdecd6a2.chunk.js": "/static/js/2.fdecd6a2.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.eb4bec4d.chunk.css.map": "/static/css/main.eb4bec4d.chunk.css.map",
     "static/js/2.fdecd6a2.chunk.js.LICENSE.txt": "/static/js/2.fdecd6a2.chunk.js.LICENSE.txt",
+    "static/media/angularBlog.c5774113.JPG": "/static/media/angularBlog.c5774113.JPG",
     "static/media/counter-thumbnail.5eb8c60d.PNG": "/static/media/counter-thumbnail.5eb8c60d.PNG",
     "static/media/github.e2f07326.svg": "/static/media/github.e2f07326.svg",
     "static/media/githubFinder-thumbnail.dc63f229.JPG": "/static/media/githubFinder-thumbnail.dc63f229.JPG",
@@ -29,6 +30,6 @@
     "static/js/runtime-main.b7569dbb.js",
     "static/js/2.fdecd6a2.chunk.js",
     "static/css/main.eb4bec4d.chunk.css",
-    "static/js/main.f4227e90.chunk.js"
+    "static/js/main.57b4832b.chunk.js"
   ]
 }
